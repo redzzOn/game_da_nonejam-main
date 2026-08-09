@@ -16,7 +16,7 @@ else if (passo == 4) {
 	texto_pt ="<4/5>"
 }
 else if (passo == 5) {
-    texto = "lembrece!!! o [F11] deixa tela cheia ajudando a ter uma melhor vizao";
+    texto = "lembrece!!! o [F11] deixa tela cheia ajudando a ter uma melhor visao";
 	texto_pt ="<5/5>"
 }
 // Teclas
