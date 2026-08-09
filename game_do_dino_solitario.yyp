@@ -33,6 +33,7 @@
     {"id":{"name":"fnt_menu","path":"fonts/fnt_menu/fnt_menu.yy",},},
     {"id":{"name":"fnt_tutorial","path":"fonts/fnt_tutorial/fnt_tutorial.yy",},},
     {"id":{"name":"obj_bolinha","path":"objects/obj_bolinha/obj_bolinha.yy",},},
+    {"id":{"name":"obj_cadeira_bar","path":"objects/obj_cadeira_bar/obj_cadeira_bar.yy",},},
     {"id":{"name":"obj_controladora","path":"objects/obj_controladora/obj_controladora.yy",},},
     {"id":{"name":"obj_espelho","path":"objects/obj_espelho/obj_espelho.yy",},},
     {"id":{"name":"obj_ganhou","path":"objects/obj_ganhou/obj_ganhou.yy",},},
@@ -53,6 +54,7 @@
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"id":{"name":"spr_bolinha","path":"sprites/spr_bolinha/spr_bolinha.yy",},},
+    {"id":{"name":"spr_cadeira_bar","path":"sprites/spr_cadeira_bar/spr_cadeira_bar.yy",},},
     {"id":{"name":"spr_espelho","path":"sprites/spr_espelho/spr_espelho.yy",},},
     {"id":{"name":"spr_fundo_menu","path":"sprites/spr_fundo_menu/spr_fundo_menu.yy",},},
     {"id":{"name":"spr_fundo","path":"sprites/spr_fundo/spr_fundo.yy",},},
@@ -70,11 +72,11 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"rm_tutorial","path":"rooms/rm_tutorial/rm_tutorial.yy",},},
-    {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

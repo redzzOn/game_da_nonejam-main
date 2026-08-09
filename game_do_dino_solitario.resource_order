@@ -11,6 +11,7 @@
   "ResourceOrderSettings":[
     {"name":"fnt_menu","order":2,"path":"fonts/fnt_menu/fnt_menu.yy",},
     {"name":"fnt_tutorial","order":3,"path":"fonts/fnt_tutorial/fnt_tutorial.yy",},
+    {"name":"obj_cadeira_bar","order":6,"path":"objects/obj_cadeira_bar/obj_cadeira_bar.yy",},
     {"name":"obj_espelho","order":1,"path":"objects/obj_espelho/obj_espelho.yy",},
     {"name":"obj_ganhou","order":4,"path":"objects/obj_ganhou/obj_ganhou.yy",},
     {"name":"obj_lixo","order":2,"path":"objects/obj_lixo/obj_lixo.yy",},
@@ -27,6 +28,7 @@
     {"name":"Room2","order":3,"path":"rooms/Room2/Room2.yy",},
     {"name":"Room3","order":4,"path":"rooms/Room3/Room3.yy",},
     {"name":"spr_bolinha","order":1,"path":"sprites/spr_bolinha/spr_bolinha.yy",},
+    {"name":"spr_cadeira_bar","order":6,"path":"sprites/spr_cadeira_bar/spr_cadeira_bar.yy",},
     {"name":"spr_fundo_menu","order":11,"path":"sprites/spr_fundo_menu/spr_fundo_menu.yy",},
     {"name":"spr_fundo","order":2,"path":"sprites/spr_fundo/spr_fundo.yy",},
     {"name":"spr_ganhou","order":5,"path":"sprites/spr_ganhou/spr_ganhou.yy",},

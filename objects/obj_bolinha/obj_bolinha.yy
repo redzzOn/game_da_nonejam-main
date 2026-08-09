@@ -12,6 +12,7 @@
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_lixo","path":"objects/obj_lixo/obj_lixo.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_violao","path":"objects/obj_violao/obj_violao.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_ventoVentilador","path":"objects/obj_ventoVentilador/obj_ventoVentilador.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_cadeira_bar","path":"objects/obj_cadeira_bar/obj_cadeira_bar.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_bolinha",

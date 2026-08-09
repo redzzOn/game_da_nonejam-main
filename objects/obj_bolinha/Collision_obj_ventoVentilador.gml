@@ -1,1 +1,1 @@
-vel_mudavel_x +=0.3
+vel_mudavel_x -=0.3
