@@ -36,6 +36,7 @@
     {"name":"spr_mesa","order":1,"path":"sprites/spr_mesa/spr_mesa.yy",},
     {"name":"spr_mouse_segurando","order":10,"path":"sprites/spr_mouse_segurando/spr_mouse_segurando.yy",},
     {"name":"spr_mouse","order":9,"path":"sprites/spr_mouse/spr_mouse.yy",},
+    {"name":"spr_ventilador","order":5,"path":"sprites/spr_ventilador/spr_ventilador.yy",},
     {"name":"spr_violao","order":4,"path":"sprites/spr_violao/spr_violao.yy",},
   ],
 }

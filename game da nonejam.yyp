@@ -64,6 +64,7 @@
     {"id":{"name":"spr_mouse_segurando","path":"sprites/spr_mouse_segurando/spr_mouse_segurando.yy",},},
     {"id":{"name":"spr_mouse","path":"sprites/spr_mouse/spr_mouse.yy",},},
     {"id":{"name":"spr_slot","path":"sprites/spr_slot/spr_slot.yy",},},
+    {"id":{"name":"spr_ventilador","path":"sprites/spr_ventilador/spr_ventilador.yy",},},
     {"id":{"name":"spr_violao","path":"sprites/spr_violao/spr_violao.yy",},},
   ],
   "resourceType":"GMProject",

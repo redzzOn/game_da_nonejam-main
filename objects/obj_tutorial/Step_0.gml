@@ -8,7 +8,9 @@ else if (passo == 2) {
 else if (passo == 3) {
     texto = "use a tecla [E] para ativar o modo construcao, cada item da um efeito diferente na bolinha";
 }
-
+else if (passo == 4) {
+    texto = "os itens moviveis estarao na parte superior";
+}
 // Teclas
 var _avancar = keyboard_check_pressed(ord("D")) || keyboard_check_pressed(vk_right);
 var _voltar  = keyboard_check_pressed(ord("A")) || keyboard_check_pressed(vk_left);
@@ -16,7 +18,7 @@ var _fechar  = keyboard_check_pressed(vk_escape);
 
 // Ação de Avançar
 if (_avancar) {
-    if (passo < 3) {
+    if (passo < 4) {
         passo += 1;
     } else {
         instance_destroy(); // Fecha ao concluir o último passo

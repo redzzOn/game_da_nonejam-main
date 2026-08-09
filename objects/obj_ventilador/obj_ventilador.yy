@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_ganhou",
-    "path":"sprites/spr_ganhou/spr_ganhou.yy",
+    "name":"spr_ventilador",
+    "path":"sprites/spr_ventilador/spr_ventilador.yy",
   },
   "spriteMaskId":null,
   "visible":true,
