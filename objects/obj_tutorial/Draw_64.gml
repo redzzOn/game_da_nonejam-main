@@ -15,4 +15,4 @@ var _separacao_linhas = 55;
 draw_set_color(c_white);
 
 // Desenha o texto com quebra de linha automática
-draw_text_ext(_x, _y, texto, _separacao_linhas, _largura_maxima);
+draw_text_ext(_x, _y, texto + texto_pt, _separacao_linhas, _largura_maxima);
