@@ -1,8 +1,8 @@
 if (!instance_exists(obj_bolinha)) 
 {
-
-    room_restart();
-
+	
+audio_play_sound(snd_perdeu, 1, false);
+room_restart()
 }
 
 if (keyboard_check_pressed(vk_f11)) {

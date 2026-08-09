@@ -7,3 +7,4 @@ vel_mudavel_y = 4
 
 }
 colidiu = true
+  audio_play_sound(snd_violao, 1, false);

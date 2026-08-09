@@ -12,6 +12,11 @@ image_yscale = lerp(image_yscale, 1, damp)
 
 if (speed > 0) {
     image_angle = direction - 90;
+	if (alarm[0] < 0) {
+		audio_sound_gain(snd_bolinha_sond, 0.6, 0);
+        audio_play_sound(snd_bolinha_sond, 1, false);
+        alarm[0] = 45;
+    }
 }
 
 if global.modo_const = true{
