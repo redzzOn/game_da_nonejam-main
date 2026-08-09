@@ -4,11 +4,11 @@ var _gui_h = display_get_gui_height();
 var _centro_x = _gui_w / 2;
 var _centro_y = _gui_h / 2;
 
-// Raio máximo suficiente para cobrir os cantos da tela
+
 var _raio_max = point_distance(0, 0, _centro_x, _centro_y) * 1.5;
 
-// Inverte o progresso: quando progresso = 0 (aberto), raio = raio_max.
-// Quando progresso = largura_tela (fechado), raio = 0.
+
+
 var _fator = 1 - (progresso / largura_tela);
 var _raio_atual = _raio_max * _fator;
 

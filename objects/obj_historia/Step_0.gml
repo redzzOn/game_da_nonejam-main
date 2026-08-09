@@ -16,7 +16,7 @@ if (alarm[0] <= 0) alarm[0] = temp;
 
 }
 else if (passo == 4) {
-    texto = "voce queria jogar pingpong, ate que juntanto uma coisa com a outra voce tem a melhor ideia da vida";
+    texto = "voce queria jogar pingpong, ate que juntando uma coisa com a outra voce tem a melhor ideia da vida";
 if (alarm[0] <= 0) alarm[0] = temp;
 
 }
